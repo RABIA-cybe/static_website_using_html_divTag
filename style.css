@@ -1,0 +1,19 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+
+.logo{
+    background-color: black;
+   
+}
+
+.heading {
+    padding-left: 8%;
+}
+
+ul > li {
+    display: inline;
+    padding: 8%;
+}
+
